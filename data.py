@@ -1,0 +1,1 @@
+data=[{'Star_name', 'Distance', 'Mass', 'Radius'}]
